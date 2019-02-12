@@ -1,0 +1,19 @@
+{
+    "name": "Homework 02",
+    "endpoint": "cal/astron98/sp19/hw02",
+    "src": [
+        "hw02.py"
+    ],
+    "tests": {
+        "hw02.py:absolute_value": "doctest",
+        "hw02.py:power": "doctest",
+        "hw02.py:recursive_factorial": "doctest",
+        "hw02.py:fib": "doctest",
+        "hw02.py:newton": "doctest",
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "backup"
+    ]
+}
