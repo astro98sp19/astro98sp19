@@ -1,0 +1,15 @@
+{
+    "name": "Homework 04",
+    "endpoint": "cal/astron98/sp19/hw04",
+    "src": [
+        "hw04.py"
+    ],
+    "tests": {
+        "hw04.py": "doctest"
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "backup"
+    ]
+}
