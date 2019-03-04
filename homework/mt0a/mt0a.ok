@@ -1,0 +1,15 @@
+{
+    "name": "Midterm Part a",
+    "endpoint": "cal/astron98/sp19/mt0a",
+    "src": [
+        "mt0a.py"
+    ],
+    "tests": {
+        "mt0a.py": "doctest"
+    },
+    "protocols": [
+        "file_contents",
+        "grading",
+        "backup"
+    ]
+}
